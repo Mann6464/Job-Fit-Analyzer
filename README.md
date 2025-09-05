@@ -1,2 +1,4 @@
 
 ## Job Fit Analyzer
+
+The Job Fit Analyzer is an AI-powered project designed to assist job seekers in evaluating how well their resumes align with specific job roles. The system enables users to upload their resumes and provide a job description for comparison. Using intelligent analysis techniques, it identifies key skills, qualifications, and experience requirements mentioned in the job posting and checks them against the applicant’s resume. The tool highlights areas of strength, pinpoints missing or weak skills, and offers insights into potential reasons for rejection. In addition, the Job Fit Analyzer generates graphical representations and visual reports that make it easier for users to understand their level of compatibility with the desired role. This helps candidates refine their resumes, improve their job applications, and increase their chances of securing employment.
